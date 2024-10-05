@@ -20,7 +20,7 @@ import java.util.zip.CheckedOutputStream;
  * @since 12.05.2024
  */
 
-public class YeldosUrashev {
+public class Travelling_salesman {
 
     public static final double alpha = 0.6;
     public static final int N = 100;
